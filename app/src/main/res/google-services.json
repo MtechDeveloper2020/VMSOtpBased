@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1041394522944",
+    "firebase_url": "https://vmsotpbased.firebaseio.com",
+    "project_id": "vmsotpbased",
+    "storage_bucket": "vmsotpbased.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041394522944:android:3e77dfc1ab1129ee",
+        "android_client_info": {
+          "package_name": "mtech.com.vmsotpbased"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041394522944-0s6gijheh1ug3bk79537fsh4hqdndqn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgFCVdJxNdO7md0wvKii0A1FYRRWWlfL4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
